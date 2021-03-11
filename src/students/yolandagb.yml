@@ -1,0 +1,113 @@
+template: "online-cv"
+skin: "blue"
+
+basic_info:
+
+    first_name: Yolanda
+    last_name: García Barranco
+    
+    motto: 
+    
+    focus: 
+    
+    summary: Translator/ Full Stack Developer Students
+    
+    # Your profile picture URL
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar: 
+    email: yolandagarciabarranco@hotmail.com
+    phone: 
+    website: 
+    linkedin: https://www.linkedin.com/in/yolanda-garcia-barranco-2b4448117/
+    
+    # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: yolandagb
+    
+    twitter: 
+    stack-overflow: 
+
+    languages:
+      -  English - Advanced
+
+      -  Spanish - Native
+
+    interests:
+      - item: 
+
+      - item: 
+
+      - item: 
+
+education:
+    - degree: Lenguas Modernas y sus Literaturas (Mención Chino y Japonés)
+      university: Universidad de Granada
+      university_logo: 
+      time: 2013-2018
+      details:
+
+    - degree: Chinese Language
+      university: Universidad de Pekín
+      university_logo: 
+      time: 2016-2017
+      details:
+          
+    - degree: Máster en Producción e Investigación Artística
+      university: Universidad de Granada
+      university_logo: 
+      time: 2018-2019
+      details:
+    
+    - degree: Full Stack Developer
+      university: 4GeeksAcademy
+      university_logo: 
+      time: 2021-2021
+      details:
+
+    
+
+# Your previous job experiences or voluntier
+experiences:
+    - role: Manager Assistant
+      time: Marzo 2019 - Julio 2019
+      company: Festival de Música y Danza
+      
+        
+
+# Your project portfolio
+projects:
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: 
+        project_logo: 
+        link: 
+        tagline:
+
+      - title:
+        # optional
+        project_logo: 
+        link: 
+        tagline: 
+
+
+skills:
+    toolset:
+      - name: Html&Css
+        level: 
+
+      - name: Javascript 
+        level: 
+
+      - name: 
+        level: 
+
+      - name: 
+        level: 
+
+      - name: 
+        level: 
+
+      - name: 
+        level: 
